@@ -1,4 +1,4 @@
-# UniGe_scholarity
+# UniGe Scholarity Projects
 Unige Projects -  Some projects done @ UniGe
 
 ## Clone all repos and update submodule
