@@ -1,0 +1,3 @@
+[submodule "ntic_latl"]
+	path = ntic_latl
+	url = https://github.com/poggioenzo/ntic_latl
