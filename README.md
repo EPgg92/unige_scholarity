@@ -9,7 +9,7 @@ git clone --recurse-submodules https://github.com/poggioenzo/unige_scholarity/
 or
 ```
 git clone https://github.com/poggioenzo/unige_scholarity/
-cd 42lyon_scholarity
+cd unige_scholarity
 git submodule init
 git submodule update
 ```
