@@ -4,3 +4,6 @@
 [submodule "laire"]
 	path = laire
 	url = https://github.com/poggioenzo/laire
+[submodule "semeval2014task9"]
+	path = semeval2014task9
+	url = https://github.com/poggioenzo/semeval2014task9
