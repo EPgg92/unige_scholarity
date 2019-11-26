@@ -16,3 +16,6 @@
 [submodule "IMA"]
 	path = IMA
 	url = https://github.com/poggioenzo/IMA
+[submodule "memoir_true"]
+	path = memoir_true
+	url = https://github.com/poggioenzo/memoir_true
