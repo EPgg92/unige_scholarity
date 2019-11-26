@@ -7,3 +7,6 @@
 [submodule "semeval2014task9"]
 	path = semeval2014task9
 	url = https://github.com/poggioenzo/semeval2014task9
+[submodule "semeval2017task8"]
+	path = semeval2017task8
+	url = https://github.com/poggioenzo/semeval2017task8
