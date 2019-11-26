@@ -13,3 +13,6 @@
 [submodule "stm"]
 	path = stm
 	url = https://github.com/poggioenzo/stm
+[submodule "IMA"]
+	path = IMA
+	url = https://github.com/poggioenzo/IMA
